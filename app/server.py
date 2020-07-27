@@ -9,7 +9,7 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = 'https://drive.google.com/uc?export=download&id=1u4ysrV-eMR8fRoZWky992jcsWNtq8vSA'
+export_file_url = 'https://drive.google.com/uc?export=download&id=1GpjbXpiBd5_-wwAxPsa-E1QCxdo12tzm'
 export_file_name = 'export.pkl'
 
 classes = ['ncaa', 'wwe']
